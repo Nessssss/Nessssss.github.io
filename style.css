@@ -12,3 +12,24 @@
     color: rgb(255, 193, 79);
     font-weight:bolder;
 }
+
+img
+{
+display:block;
+width:50%;
+margin-left:auto;
+margin-right:auto;
+}
+
+#Navigation
+{
+    font-family: SinkSans;
+    font-weight: bolder;
+	position: relative;
+    display: flex;
+    top:10px;
+    margin-right: 100px;
+    margin-left:100px;
+	background-color:rgb(202, 202, 202);
+    border-radius: 10px;
+}
