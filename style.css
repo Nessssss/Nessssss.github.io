@@ -1,0 +1,14 @@
+@font-face
+{   
+    font-family: "SinkSans";
+    src: url('SinkSans.otf');
+}
+
+.texte
+{   
+    font-family: SinkSans;
+    text-align:center;
+    font-size:20px;
+    color: rgb(255, 193, 79);
+    font-weight:bolder;
+}
