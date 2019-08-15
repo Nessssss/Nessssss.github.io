@@ -28,8 +28,8 @@ margin-right:auto;
 	position: relative;
     display: flex;
     top:10px;
-    margin-right: 100px;
-    margin-left:100px;
+    margin-right: 200px;
+    margin-left:200px;
 	background-color:rgb(202, 202, 202);
     border-radius: 10px;
 }
