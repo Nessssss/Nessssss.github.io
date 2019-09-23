@@ -4,7 +4,7 @@
     src: url('SinkSans.otf');
 }
 
-.texte
+.titre
 {   
     font-family: SinkSans;
     text-align:center;
@@ -13,19 +13,29 @@
     font-weight:bolder;
 }
 
+.texte
+{
+    font-family: SinkSans;
+    text-align:center;
+    font-size: 18px;
+    color: rgb(181, 255, 243);
+    font-weight:bold;
+}
+
 img
 {
-display:block;
-width:50%;
-margin-left:auto;
-margin-right:auto;
+    text-align: center;
+    display:inline-block;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
 }
 
-#deuximages
+#images
 {
-    display: inline-block
+    padding-top : 0.2%;
+    margin : left;
 }
-
 
 #Navigation
 {
@@ -38,12 +48,6 @@ margin-right:auto;
     margin-left:200px;
 	background-color:rgba(49, 143, 231, 0.507);
     border-radius: 10px;
-}
-
-#images
-{
-    padding-top :1%;
-    margin : left 
 }
 
 #Navigation a
@@ -83,7 +87,8 @@ margin-right:auto;
     transition: all 0.3s ease-in-out 0s;
   }
 
-  #Navigation > a:hover:before {
+  #Navigation > a:hover:before 
+  {
     visibility: visible;
     -webkit-transform: scaleX(0.5);
     transform: scaleX(0.5);
