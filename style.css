@@ -33,8 +33,26 @@ img
 
 #images
 {
-    padding-top : 0.2%;
-    margin : left;
+    padding-top: 0%;
+    margin: left;
+}
+
+.fixed
+{
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
+
+.fixedtext
+{
+    left: 20px;
+    bottom: 55px;
+    position: fixed;
+    color: rgba(47, 253, 174, 0.651);
+    font-size:15px;
+    font-family: SinkSans;
+    text-decoration:none
 }
 
 #Navigation
