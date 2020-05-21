@@ -60,6 +60,12 @@ img
     text-decoration:none
 }
 
+.imagefixed
+{
+    position: fixed;
+    bottom: 65px;
+    left: 160px;
+}
 #Navigation
 {
     font-family: SinkSans;
