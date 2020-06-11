@@ -11,9 +11,13 @@
 			<p><a href="https://www.youtube.com/watch?v=8WvW2de_F3I" target="_blank">Musique pépère</a></p>
 		</span>
 		<span class="fixed">
-			<audio controls="controls" loop="loop" autoplay="autoplay">
+			<audio id ="musique" controls="controls" loop="loop" autoplay="autoplay">
 				<source src="audio/hyadain-no-kakakata-kataomoi-c-jazz-with-vocals-nichijou.mp3" type="audio/mp3"/>
 			</audio>
+		<script type="text/javascript">
+			var monElementAudio = document.getElementById('musique');
+			monElementAudio.volume = 0.5;
+			</script>
 		</span>
 		<span class="imagefixed">
 			<img src="images/music kirby lent.gif" style="width:50px;">
