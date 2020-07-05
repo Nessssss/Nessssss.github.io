@@ -27,6 +27,18 @@
     font-weight:bold;
 }
 
+.fifoutexte
+{
+    font-size: 23px;
+    color: white;
+    font-weight: bolder;
+}
+
+.fifouimage
+{
+    vertical-align: bottom;
+}
+
 img
 {
     text-align: center;
