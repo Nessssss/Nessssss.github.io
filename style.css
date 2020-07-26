@@ -61,6 +61,11 @@ img
     left: 10px;
 }
 
+.fixedscp
+{
+    display: none;
+}
+
 .fixedtext
 {
     left: 20px;
