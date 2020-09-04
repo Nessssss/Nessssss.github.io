@@ -27,6 +27,15 @@
     font-weight:bold;
 }
 
+.texte2
+{
+    font-family: SinkSans;
+    text-align:center;
+    font-size: 15px;
+    color: rgb(255, 223, 0);
+    font-weight:bold;
+}
+
 .fifoutexte
 {
     font-size: 23px;
