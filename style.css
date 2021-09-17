@@ -115,6 +115,7 @@ img
     font-size: 17px;
     transition:all 0.3s ease;
     text-decoration: none;
+	margin: auto;
 }
 
 #Navigation > a {
@@ -175,3 +176,4 @@ img
     font-size: 90px;
     animation: shake 0.2s steps(1, end) infinite;
 }
+
